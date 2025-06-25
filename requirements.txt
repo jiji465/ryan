@@ -1,4 +1,4 @@
 fastapi
 uvicorn
->>>>>>> 5cf4192fc7c15bdce8b2dc8d424a63041c7069ad
+5cf4192fc7c15bdce8b2dc8d424a63041c7069ad
 pandas 
